@@ -3,7 +3,7 @@ import React from 'react'
 
 function Kotak1() {
   return (
-    <div>Kotak1</div>
+    <div style={{color: 'tomato', fontWeight: 'bold', fontSize: '20px'}}>Kotak1</div>
   )
 }
 
